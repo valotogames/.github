@@ -1,12 +1,22 @@
-## About
+<div align="center">
+  <h1>Valoto Games</h1>
+  <p><b>High-performance C++ middleware for graphics engines.</b></p>
+  
+  <a href="https://unreal-dualsense-pro.valoto.games">🌐 unreal-dualsense-pro.valoto.games</a>
+  <br><br>
 
-Valoto Games develops high-performance middleware written in modern C++, designed to bridge the gap between native system capabilities and graphics engines. Our libraries focus on delivering seamless cross-platform experiences that push the boundaries of real-time rendering and gameplay immersion. 🎮
-
-Join this organization to gain access to private repositories and exclusive sample projects, and to contribute by opening priority issues. Request access via this form: https://forms.gle/QcXZkahVtJpeRSja8
+  <a href="https://store.steampowered.com/app/4798010/bRun/"><img src="https://img.shields.io/badge/Steam-536878?style=for-the-badge&logo=steam&logoColor=white" alt="On Steam"></a>
+  <a href="https://youtu.be/79IkoYGStGA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="Watch YouTube"></a>
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://store.steampowered.com/app/4798010/bRun/" title="On Steam"><img src="https://img.shields.io/badge/Steam-536878?style=for-the-badge&logo=steam&logoColor=white" alt="On Steam"></a>    
-	<a href="https://youtu.be/79IkoYGStGA" title="Watch YouTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="Watch YouTube"></a>
-</p>
+## About 🎮
+
+We develop high-performance middleware written in modern C++, bridging the gap between native system capabilities and graphics engines. Our libraries focus on delivering seamless, cross-platform experiences designed to push the boundaries of real-time rendering and gameplay immersion.
+
+## 🤝 Join the Organization
+
+Gain access to private repositories, exclusive sample projects, and priority issue tracking. 
+
+👉 **[Request Access via Google Forms](https://forms.gle/QcXZkahVtJpeRSja8)**
